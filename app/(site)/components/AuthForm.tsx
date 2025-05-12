@@ -171,7 +171,7 @@ const AuthForm = () => {
           <span>
             {variant === 'REGISTER'
               ? 'Already have an account?'
-              : 'New to Nexus?'}
+              : 'New to Buddy?'}
           </span>
           <button
             type="button"
